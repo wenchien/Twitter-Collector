@@ -9,8 +9,9 @@ A Twitter User-Location-Language data-collecting utility developed for academic 
 - [x] Finish Repository
 - [ ] Finish MySQL database settings
 - [ ] Finish Security on website
-- [ ] Finish Task Implementation
+- [x] Finish Task Implementation
 - [ ] Finish Task Queue and threading
+- [ ] Finish Snapshot on Task Queue
 - [ ] Finish Twitter Search cache
 - [x] Finish Twitter Search Function
 - [ ] \(Optional)Finish Additional features
