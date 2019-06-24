@@ -1,5 +1,6 @@
 # Twitter-Collector
 A Twitter User-Location-Language data-collecting utility developed for academic research uses for Waseda University
+Project Closed due to unforseen circumstance - 6/24/2019
 
 ###### TO-DO LIST
 - [x] Finish Design
